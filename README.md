@@ -7,6 +7,7 @@ For political accountability and power to the people.
 This project aims to:
 
 1. **Political Leaders Database**:
+   - comment: `if possible every information should have a source, if an article we can link to it, if a document lets provide the link to it , if possible have our own copy for the same with metadata that can be used to traceback originality of the information.`  
    - **Details**: 
      - List of political leaders with **names, locations, and jurisdictions** and anything they own that is of public interest
      - Links to **publications**, **dissertations**, and **videos** related to their degrees (e.g., Master’s, Ph.D.).
